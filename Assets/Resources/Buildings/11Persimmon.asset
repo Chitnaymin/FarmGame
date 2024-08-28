@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa53da900cde2ce429afb78369a7bd40, type: 3}
+  m_Name: 11Persimmon
+  m_EditorClassIdentifier: 
+  category_tag: 2
+  id: 11
+  nameTxtID: 10132
+  price: 300
+  time: 600
+  level: 0
+  buildingLvl: 0
+  exp: 20
+  material: 0
+  cropableItem: 4
+  ProductionCap: 0
+  ReduceTheTime: 0
+  sprite: {fileID: 21300000, guid: b6cf6b6a901ef4840a0ff40101f85457, type: 3}
+  builtSpriteState0: {fileID: 21300000, guid: b6cf6b6a901ef4840a0ff40101f85457, type: 3}
+  builtSpriteState1: {fileID: 21300000, guid: 3788a1877b6994f4c904591bf37b8b24, type: 3}
+  builtSpriteState2: {fileID: 21300000, guid: 3788a1877b6994f4c904591bf37b8b24, type: 3}
+  builtSpriteComplete: {fileID: 21300000, guid: 5b1b93129c86f2249b546f346ae4cbf8,
+    type: 3}
+  BonusItemID: 1500000017000000

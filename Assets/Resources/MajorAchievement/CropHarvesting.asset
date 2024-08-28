@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1c0071a9e1f3d45b623a4bf822dba9, type: 3}
+  m_Name: CropHarvesting
+  m_EditorClassIdentifier: 
+  AchType: 2
+  AchDetails:
+  - AchNameTextID: 21009
+    MaxProgress: 10
+    RewardType: 0
+    CoinReward: 1000
+    SerialKeyCode: 
+    TitleTxtID: 20009
+  - AchNameTextID: 21010
+    MaxProgress: 50
+    RewardType: 0
+    CoinReward: 1500
+    SerialKeyCode: 
+    TitleTxtID: 20010
+  - AchNameTextID: 21011
+    MaxProgress: 100
+    RewardType: 0
+    CoinReward: 2000
+    SerialKeyCode: 
+    TitleTxtID: 20011
+  - AchNameTextID: 21012
+    MaxProgress: 500
+    RewardType: 0
+    CoinReward: 5000
+    SerialKeyCode: 
+    TitleTxtID: 20012

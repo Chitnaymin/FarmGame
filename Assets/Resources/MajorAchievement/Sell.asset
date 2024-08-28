@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1c0071a9e1f3d45b623a4bf822dba9, type: 3}
+  m_Name: Sell
+  m_EditorClassIdentifier: 
+  AchType: 4
+  AchDetails:
+  - AchNameTextID: 21016
+    MaxProgress: 3
+    RewardType: 0
+    CoinReward: 1000
+    SerialKeyCode: 
+    TitleTxtID: 20016
+  - AchNameTextID: 21017
+    MaxProgress: 30
+    RewardType: 0
+    CoinReward: 1500
+    SerialKeyCode: 
+    TitleTxtID: 20017
+  - AchNameTextID: 21018
+    MaxProgress: 300
+    RewardType: 2
+    CoinReward: 0
+    SerialKeyCode: sold300times
+    TitleTxtID: 20018

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1c0071a9e1f3d45b623a4bf822dba9, type: 3}
+  m_Name: Task
+  m_EditorClassIdentifier: 
+  AchType: 5
+  AchDetails:
+  - AchNameTextID: 21019
+    MaxProgress: 10
+    RewardType: 0
+    CoinReward: 1000
+    SerialKeyCode: 
+    TitleTxtID: 20019
+  - AchNameTextID: 21020
+    MaxProgress: 30
+    RewardType: 2
+    CoinReward: 0
+    SerialKeyCode: done30quests
+    TitleTxtID: 20020
+  - AchNameTextID: 21021
+    MaxProgress: 50
+    RewardType: 0
+    CoinReward: 2000
+    SerialKeyCode: 
+    TitleTxtID: 20021
+  - AchNameTextID: 21022
+    MaxProgress: 100
+    RewardType: 0
+    CoinReward: 3000
+    SerialKeyCode: 
+    TitleTxtID: 20022

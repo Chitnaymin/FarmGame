@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1c0071a9e1f3d45b623a4bf822dba9, type: 3}
+  m_Name: FactoryHarvest
+  m_EditorClassIdentifier: 
+  AchType: 6
+  AchDetails:
+  - AchNameTextID: 21023
+    MaxProgress: 30
+    RewardType: 0
+    CoinReward: 1000
+    SerialKeyCode: 
+    TitleTxtID: 20023
+  - AchNameTextID: 21024
+    MaxProgress: 80
+    RewardType: 0
+    CoinReward: 1000
+    SerialKeyCode: 
+    TitleTxtID: 20024
+  - AchNameTextID: 21025
+    MaxProgress: 150
+    RewardType: 0
+    CoinReward: 1500
+    SerialKeyCode: 
+    TitleTxtID: 20025
+  - AchNameTextID: 21026
+    MaxProgress: 250
+    RewardType: 0
+    CoinReward: 2500
+    SerialKeyCode: 
+    TitleTxtID: 20026
+  - AchNameTextID: 21027
+    MaxProgress: 500
+    RewardType: 0
+    CoinReward: 3000
+    SerialKeyCode: 
+    TitleTxtID: 20027

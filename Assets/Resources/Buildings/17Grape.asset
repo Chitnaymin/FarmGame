@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa53da900cde2ce429afb78369a7bd40, type: 3}
+  m_Name: 17Grape
+  m_EditorClassIdentifier: 
+  category_tag: 4
+  id: 17
+  nameTxtID: 10143
+  price: 400
+  time: 600
+  level: 0
+  buildingLvl: 0
+  exp: 20
+  material: 0
+  cropableItem: 10
+  ProductionCap: 0
+  ReduceTheTime: 0
+  sprite: {fileID: 21300000, guid: 43771105ec3de81458a00d4e743e1c4a, type: 3}
+  builtSpriteState0: {fileID: 21300000, guid: 752c472e88b342643b9d1ea6e80e533b, type: 3}
+  builtSpriteState1: {fileID: 21300000, guid: de1e022579d31f742a6071dc7aad54da, type: 3}
+  builtSpriteState2: {fileID: 21300000, guid: de1e022579d31f742a6071dc7aad54da, type: 3}
+  builtSpriteComplete: {fileID: 21300000, guid: 43771105ec3de81458a00d4e743e1c4a,
+    type: 3}
+  BonusItemID: 16000000

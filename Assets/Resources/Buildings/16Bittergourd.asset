@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa53da900cde2ce429afb78369a7bd40, type: 3}
+  m_Name: 16Bittergourd
+  m_EditorClassIdentifier: 
+  category_tag: 4
+  id: 16
+  nameTxtID: 10142
+  price: 200
+  time: 480
+  level: 0
+  buildingLvl: 0
+  exp: 16
+  material: 0
+  cropableItem: 9
+  ProductionCap: 0
+  ReduceTheTime: 0
+  sprite: {fileID: 21300000, guid: 011fe78581e92634d9c84ea3b81e4f74, type: 3}
+  builtSpriteState0: {fileID: 21300000, guid: 419e5e7688980a7428a2f8e2db39a231, type: 3}
+  builtSpriteState1: {fileID: 21300000, guid: de1e022579d31f742a6071dc7aad54da, type: 3}
+  builtSpriteState2: {fileID: 21300000, guid: de1e022579d31f742a6071dc7aad54da, type: 3}
+  builtSpriteComplete: {fileID: 21300000, guid: 011fe78581e92634d9c84ea3b81e4f74,
+    type: 3}
+  BonusItemID: 16000000

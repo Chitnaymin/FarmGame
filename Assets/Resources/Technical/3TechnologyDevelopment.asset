@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a630dc22586aa54aa88ee77bc43c5b6, type: 3}
+  m_Name: 3TechnologyDevelopment
+  m_EditorClassIdentifier: 
+  Type: 3
+  TechName: Development
+  DescriptionID: 3
+  TitleTxtID: 10305
+  DescriptionTxtID: 10315
+  Percentage: 10309
+  levelDetails:
+  - Price: 340
+    PercentValue: 5
+    ImprovingTime: 3600
+  - Price: 450
+    PercentValue: 8
+    ImprovingTime: 6000
+  - Price: 670
+    PercentValue: 12
+    ImprovingTime: 10200
+  - Price: 820
+    PercentValue: 16
+    ImprovingTime: 12600
+  - Price: 1000
+    PercentValue: 20
+    ImprovingTime: 14400

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa53da900cde2ce429afb78369a7bd40, type: 3}
+  m_Name: 3SubcontractorLv4
+  m_EditorClassIdentifier: 
+  category_tag: 0
+  id: 6
+  nameTxtID: 1002
+  price: 1230
+  time: 900
+  level: 19
+  buildingLvl: 4
+  exp: 0
+  material: 0
+  cropableItem: 0
+  ProductionCap: 10
+  ReduceTheTime: 30
+  sprite: {fileID: 21300000, guid: d79a84f49a56a14479044cad02b4ce03, type: 3}
+  builtSpriteState0: {fileID: 21300000, guid: 863132fbf5c05b7489af4f8abb2ec904, type: 3}
+  builtSpriteState1: {fileID: 21300000, guid: 7260ff030451640418ab19a09e800e04, type: 3}
+  builtSpriteState2: {fileID: 21300000, guid: 7260ff030451640418ab19a09e800e04, type: 3}
+  builtSpriteComplete: {fileID: 21300000, guid: 863132fbf5c05b7489af4f8abb2ec904,
+    type: 3}

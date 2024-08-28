@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa53da900cde2ce429afb78369a7bd40, type: 3}
+  m_Name: 14Lemon
+  m_EditorClassIdentifier: 
+  category_tag: 2
+  id: 14
+  nameTxtID: 10131
+  price: 2700
+  time: 1800
+  level: 0
+  buildingLvl: 0
+  exp: 60
+  material: 0
+  cropableItem: 7
+  ProductionCap: 0
+  ReduceTheTime: 0
+  sprite: {fileID: 21300000, guid: 906503c4d81f6a04c84c6dab2fa0a55d, type: 3}
+  builtSpriteState0: {fileID: 21300000, guid: 906503c4d81f6a04c84c6dab2fa0a55d, type: 3}
+  builtSpriteState1: {fileID: 21300000, guid: 3788a1877b6994f4c904591bf37b8b24, type: 3}
+  builtSpriteState2: {fileID: 21300000, guid: 3788a1877b6994f4c904591bf37b8b24, type: 3}
+  builtSpriteComplete: {fileID: 21300000, guid: bbfea3ce46e6e074dab8d1eb0cbf0ea3,
+    type: 3}
+  BonusItemID: 1500000017000000
